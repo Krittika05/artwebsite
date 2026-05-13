@@ -1,4 +1,4 @@
-# Vincent van Gogh — A Starry Night Gallery
+# Vincent Van Gogh — A Starry Night Gallery
 
 A stunning tribute gallery celebrating the life, works, and legacy of Vincent van Gogh. Immerse yourself in the swirling skies, golden light, and emotional depth of one of history's greatest artists.
 
