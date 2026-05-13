@@ -67,6 +67,10 @@ All artwork images are public domain via [Wikimedia Commons](https://commons.wik
 
 A tribute gallery honoring Vincent van Gogh's tortured genius and timeless artistic vision.
 
+## 👤 Creator
+
+Created by **Krittika** as an art history project. This gallery is a labor of love, bringing Van Gogh's masterpieces to the digital age.
+
 ---
 
 > "I dream my painting and I paint my dream." — Vincent van Gogh
